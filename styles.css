@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: "Roboto", sans-serif;
 }
 .container-1{
     background-color: #1f2937;
@@ -34,11 +35,31 @@ a{
 .content1{
     padding: 40px;
     display: flex;
+    justify-content: space-around;
 
+
+}
+.msg-1{
+    width: 400px;
 
 }
 
 button{
     background-color: #3882f6;
     color: white;
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: 0;
+    font-weight: bold;
+    margin: 20px;
+}
+.image-1{
+    text-align: center;
+    border: 3px solid grey;
+    background-color: grey;
+    height: 200px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
