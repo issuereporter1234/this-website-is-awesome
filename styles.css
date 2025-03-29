@@ -65,15 +65,12 @@ button{
     margin: 20px;
 }
 .image-1{
-    text-align: center;
-    border: 3px solid grey;
-    background-color: grey;
     height: 200px;
     width: 400px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* add image later */
+}
+img{
+    width: 100%;
+    height: 100%;
 }
 .container-2{
     display: flex;
@@ -99,7 +96,6 @@ table{
 .image-2{
     width: 150px;
     height: 150px;
-    border: 3px solid #3882f6;
     border-radius: 10px;
     margin: auto;
     /* add images later */
@@ -154,7 +150,7 @@ body div.container-3{
 footer{
     background-color: #1f2937;
     color: white;
-    height: 80px;
+    height: 8git 0px;
     display: flex;
     justify-content: center;
     align-items: center;
