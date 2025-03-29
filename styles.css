@@ -33,7 +33,9 @@ a{
     
 }
 .web-title{
-    /* add styles here and to the rest of the text */
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
 }
 .content1{
     padding: 40px;
@@ -44,6 +46,8 @@ a{
 }
 .msg-1{
     width: 400px;
+    font-size: 18px;
+    color: #f9faf8;
 
 }
 
@@ -56,12 +60,6 @@ button{
     font-weight: bold;
     margin: 20px;
 }
-.container-2{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
-
 .image-1{
     text-align: center;
     border: 3px solid grey;
@@ -73,10 +71,27 @@ button{
     align-items: center;
     /* add image later */
 }
+.container-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+table{
+    width: 80%;
+    margin: auto;
+}
+
 .img-title{
     text-align: center;
     font-weight: bold;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    
 }
+.img-table{
+ 
 .image-2{
     width: 150px;
     height: 150px;
