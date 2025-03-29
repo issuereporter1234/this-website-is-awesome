@@ -98,7 +98,6 @@ table{
     height: 150px;
     border-radius: 10px;
     margin: auto;
-    /* add images later */
 }
 .image-text{
     text-align: center;
@@ -150,7 +149,7 @@ body div.container-3{
 footer{
     background-color: #1f2937;
     color: white;
-    height: 8git 0px;
+    height: 80px;
     display: flex;
     justify-content: center;
     align-items: center;
