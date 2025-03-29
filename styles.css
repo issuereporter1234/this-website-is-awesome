@@ -131,3 +131,31 @@ body div.container-3{
     font-weight: bold;
     color: #1f2937;
 }
+.container-4{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.sign-up{
+    background-color: #3882f6;
+    color: white;
+    border-radius: 5px;
+    padding: 30px 150px;
+}
+.bold{
+    font-weight: bold;
+}
+
+.sign-up button{
+    border: 2px solid white;
+}
+footer{
+    background-color: #1f2937;
+    color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
