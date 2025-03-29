@@ -2,11 +2,15 @@ body{
     margin: 0;
     font-family: "Roboto", sans-serif;
 }
+.container-1, .container-2, .container-3{
+    height: 450px;
+}
+
+
 .container-1{
     background-color: #1f2937;
     color: white;
     margin: 0;
-    padding: 5px 20px 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -90,7 +94,7 @@ table{
     font-weight: 900;
     
 }
-.img-table{
+
  
 .image-2{
     width: 150px;
@@ -102,4 +106,28 @@ table{
 }
 .image-text{
     text-align: center;
+}
+body div.container-3{
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+}
+    
+
+.quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.quote-from{
+    margin-left: auto;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
 }
